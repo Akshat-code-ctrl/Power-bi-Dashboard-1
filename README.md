@@ -2,7 +2,7 @@
 
 Objective :-
 owner of store wants us to help them create a dashboard to track and analyze their online sales across india.
-![image alt]()
+![image alt](https://github.com/Akshat-code-ctrl/Power-bi-Dashboard-1/blob/3207a12f76e79cc595ffdf85386aaa01a736a5c7/Screenshot%202026-09-24%20140922.png)
 
 Project - key points
 - Data collection
